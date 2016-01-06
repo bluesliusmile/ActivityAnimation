@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jiml\AndroidStudioProjects\ActivityAnimation\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6948cbeedf5843cd14808af9e023b1a6a73a3edf">
+        <dex dex="C:\Users\Jiml\AndroidStudioProjects\ActivityAnimation\app\build\intermediates\pre-dexed\debug\classes_6b9c3ba6ddc19965f1ad9b7cef62e5d0daf86080.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jiml\AndroidStudioProjects\ActivityAnimation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f89355ce89628d252b099f22ce91a6c3f9ceebd9">
+        <dex dex="C:\Users\Jiml\AndroidStudioProjects\ActivityAnimation\app\build\intermediates\pre-dexed\debug\instant-run_d33c96a92e37299c39869d7d4481ead120eed821.jar" />
+    </item>
+
+</items>
